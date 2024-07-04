@@ -17,7 +17,7 @@
 </div>
 
 ### Hello 👋
-I am Vinod, currently working as a Principal Engineer at [SumUp](https://www.sumup.com/en-us/) for the Data Platform Team.
+My name is Vinod; I have over 10 years of experience in Data comprising of Data Engineerung, Analytical Engineering, Machine Learning and Business Intelligence.
 
 ### What are my interests?
 * Coding - C, C++, Python
